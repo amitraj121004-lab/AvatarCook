@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan to fix video export crash, overhaul photo face rigging with ML Kit auto-detection, optimize lip-sync responsiveness with sub-25ms attack, and make UI buttery smooth.",
+  "updatedAt":  "2026-10-10T03:18:16.456058887Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AvatarSync Studio",
+  "description": "AI Talking Avatar Studio with Real-Time Facial Animation, Voice Lip-Sync & Video Export",
+  "requestFramePermissions": ["CAMERA", "RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
